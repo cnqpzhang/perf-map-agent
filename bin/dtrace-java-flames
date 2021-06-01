@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -e
+#set -e
 PID=$1
 
 if [ -z "$DTRACE_JAVA_TMP" ]; then

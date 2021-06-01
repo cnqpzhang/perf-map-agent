@@ -1,6 +1,6 @@
 #!/bin/bash
-set -e
-#set -x
+#set -e
+set -x
 
 CUR_DIR=`pwd`
 PID=$1

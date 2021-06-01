@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+#set -e
 
 PERF_MAP_DIR="$(cd "$(dirname "$0")" && pwd -P)"/..
 
